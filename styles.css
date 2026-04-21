@@ -29,7 +29,7 @@ h2, h3 {
     color: #5C4742;
 }
 
-#1, #2, #3, #4, #5, #6 {
+#agenda, #attendance, #business, #questions, #notes, #feedback {
     scroll-padding-top: 120px;
     scroll-behavior: smooth;
 }
@@ -71,16 +71,15 @@ section:has(img) {
 nav {
   background: #5A2A27;
   padding: 10px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
 
-  & a {
-    color: white;
-    text-decoration: none;
-    margin: 0 10px;
-  }
-
-  & a:hover {
-    text-decoration: underline;
-  }
+nav a:hover {
+  text-decoration: underline;
 }
 
 footer {
