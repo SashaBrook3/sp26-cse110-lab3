@@ -1,2 +1,2 @@
-# Lab 2 - Starter
-https://sashabrook3.github.io/Lab2/ 
+# Lab 3
+https://sashabrook3.github.io/sp26-cse110-lab3/
